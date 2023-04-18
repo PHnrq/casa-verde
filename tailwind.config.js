@@ -7,6 +7,7 @@ export default {
   theme: {
     fontFamily: {
       'body' : ['Montserrat'],
+      'elsie' : ['Elsie Swash Caps']
     },
     extend: {},
   },
